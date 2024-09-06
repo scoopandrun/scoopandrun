@@ -9,3 +9,5 @@ I have hands-on experience with Docker, which I've used to set up both home labs
 This practical knowledge has been instrumental in honing my abilities to create robust and efficient development environments.
 
 Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
+
+<a href="https://app.daily.dev/scoopandrun"><img src="https://api.daily.dev/devcards/v2/ANtlou5gRz1s15D3aeRkw.png?r=xra" width="356" alt="scoopandrun's Dev Card"/></a>
